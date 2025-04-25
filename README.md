@@ -1,2 +1,2 @@
 # submodule-sub
-This is the submodule, more things
+This is the submodule, more things and more
